@@ -2,9 +2,11 @@
 permalink: /
 ---
 
-# Hello World! (đoạn này để test tiếng Việt)
+# Hello, I am Hieu Tran
 
-My name is Tora (Trần Trung Hiếu)
+People call me Hieu (Hiếu)
+
+![alt text for screen readers](/image/blog.jpg "Text to show on mouseover")
 
 ## My quote (đoạn này cũng để test tiếng Việt)
 

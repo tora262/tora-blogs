@@ -6,7 +6,7 @@ permalink: /
 
 People call me Hieu (Hiếu)
 
-![alt text for screen readers](/image/blog.jpg "Text to show on mouseover")
+![image-title-here](/image/blog.jpg){:class="img-responsive"}
 
 ## My quote (đoạn này cũng để test tiếng Việt)
 
